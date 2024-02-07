@@ -1,0 +1,20 @@
+package com.Operators;
+
+public class Addition {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      int a =10;
+      int b =30;
+      float e=20.23f;
+      
+      //sum=a+b=40
+      //system.out.println(sum);.
+      System.out.println(a+b);
+ double c=10.8;
+ double d=5;
+ System.out.println(c-d);
+ System.out.println("Addition of the A & E"+(a+e));// + is the used the addition and concatetion.concatetion is used to the two string concate.
+	}
+
+}
